@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ધોરણ ૭ હાજરી પત્રક</string>
+    <string name="nav_daily_attendance">દૈનિક હાજરી</string>
+    <string name="nav_monthly_register">માસિક પત્રક</string>
+    <string name="nav_student_list">વિદ્યાર્થી યાદી</string>
+    <string name="nav_daily_report">દૈનિક રિપોર્ટ</string>
+    <string name="mark_all_present">બધા હાજર</string>
+    <string name="mark_all_absent">બધા ગેરહાજર</string>
+    <string name="present">હાજર</string>
+    <string name="absent">ગેરહાજર</string>
+    <string name="leave">રજા</string>
+    <string name="half_day">અડધો દિવસ</string>
+    <string name="add_student">નવો વિદ્યાર્થી ઉમેરો</string>
+    <string name="edit_student">વિગત સુધારો</string>
+    <string name="delete_student">કાઢી નાખો</string>
+    <string name="roll_number">રોલ નં.</string>
+    <string name="gr_number">GR નં.</string>
+    <string name="student_name">વિદ્યાર્થીનું નામ</string>
+    <string name="gender">જાતિ</string>
+    <string name="boy">કુમાર</string>
+    <string name="girl">કન્યા</string>
+    <string name="phone_number">વાલીનો ફોન નં.</string>
+    <string name="save">સાચવો</string>
+    <string name="cancel">રદ કરો</string>
+    <string name="share_whatsapp">વ્હોટ્સએપ શેર</string>
+    <string name="copy_report">રિપોર્ટ કોપી કરો</string>
+    <string name="search_students">વિદ્યાર્થી શોધો...</string>
+</resources>

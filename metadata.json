@@ -1,0 +1,6 @@
+{
+  "name": "ધોરણ ૭ હાજરી પત્રક",
+  "description": "ધોરણ ૭ પ્રાથમિક શાળા દૈનિક હાજરી પત્રક, વિદ્યાર્થી યાદી, માસિક રજિસ્ટર અને દૈનિક વોટ્સએપ રિપોર્ટ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

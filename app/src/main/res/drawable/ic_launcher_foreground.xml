@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Register Book / Clipboard Board Shadow & Base (x: 27 to 81, y: 24 to 84) -->
+    <path
+        android:fillColor="#1A000000"
+        android:pathData="M31,28 H79 A5,5 0 0,1 84,33 V84 A5,5 0 0,1 79,89 H31 A5,5 0 0,1 26,84 V33 A5,5 0 0,1 31,28 Z" />
+    
+    <!-- Register Book White Page (x: 29 to 79, y: 26 to 82) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M33,26 H75 A4,4 0 0,1 79,30 V80 A4,4 0 0,1 75,84 H33 A4,4 0 0,1 29,80 V30 A4,4 0 0,1 33,26 Z" />
+    
+    <!-- Header band of the attendance book (Teal / Blue) -->
+    <path
+        android:fillColor="#0288D1"
+        android:pathData="M29,30 A4,4 0 0,1 33,26 H75 A4,4 0 0,1 79,30 V38 H29 Z" />
+
+    <!-- Top binder clip -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M46,23 H62 A2,2 0 0,1 64,25 V29 H44 V25 A2,2 0 0,1 46,23 Z" />
+
+    <!-- Register Header Accent Dots -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,32 A1.5,1.5 0 1,1 35,35 A1.5,1.5 0 1,1 35,32 Z M40,32 A1.5,1.5 0 1,1 40,35 A1.5,1.5 0 1,1 40,32 Z" />
+
+    <!-- Checkmark Row 1 (Green Tick + Line) -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M35.5,47.5 L33.5,45.5 L32,47 L35.5,50.5 L42,44 L40.5,42.5 Z" />
+    <path
+        android:fillColor="#B0BEC5"
+        android:pathData="M46,45 H73 V47.5 H46 Z" />
+
+    <!-- Checkmark Row 2 (Green Tick + Line) -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M35.5,57.5 L33.5,55.5 L32,57 L35.5,60.5 L42,54 L40.5,52.5 Z" />
+    <path
+        android:fillColor="#B0BEC5"
+        android:pathData="M46,55 H73 V57.5 H46 Z" />
+
+    <!-- Checkmark Row 3 (Green Tick + Line) -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M35.5,67.5 L33.5,65.5 L32,67 L35.5,70.5 L42,64 L40.5,62.5 Z" />
+    <path
+        android:fillColor="#B0BEC5"
+        android:pathData="M46,65 H65 V67.5 H46 Z" />
+
+    <!-- Grade "7" Badge at bottom-right corner -->
+    <!-- Badge Circle -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M73,73 A12,12 0 1,0 73,73.01 Z" />
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M73,73 A10,10 0 1,0 73,73.01 Z" />
+    <!-- White Digit 7 inside badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M69,67 H77 V69.5 L73,78 H70.5 L74,70 H69 Z" />
+
+</vector>
